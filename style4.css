@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+header, footer {
+    background-color: black;
+    height: 15vh;
+    color: white;
+}
+
+main {
+    display: flex;
+    height: 70vh;
+}
+
+article {
+    background-color: whitesmoke;
+    flex: 2;
+}
+
+aside {
+    background-color: antiquewhite;
+    flex: 1;
+}
+
+nav {
+    background-color: blanchedalmond;
+    float: left;
+    width: 14vw;
+    height: 100vh;
+}

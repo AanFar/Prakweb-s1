@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header , footer{
+    margin: 1vw 4vw 1vw 4vw;
+    width: 90vw;
+    height: 4vw;
+    background-color: blue;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+}
+
+.asid{
+    margin: 1vw 2vw 1vw 4vw;
+    width: 30vw;
+    height: 50vh;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.artic {
+    margin: 1vw 4vw 1vw 2vw;
+    width: 56vw;
+    height: 50vh;
+    background-color: brown;
+    text-align: center;
+}
+
+.image{
+    height: 10vw;
+    display: flex;
+    gap: 10px;
+    margin: 10vw 0 0 5vw;
+}

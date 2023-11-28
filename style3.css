@@ -1,0 +1,25 @@
+body {
+    width: 800px;
+    margin: auto;
+    padding: auto;
+}
+
+img {
+    height: 10vw;
+    margin: 5px;
+}
+
+body {
+    margin: 20vh 10vw;
+}
+
+.container1{
+    margin-left: 20px;
+}
+
+.container2 {
+    display: flex;
+}
+
+
+
